@@ -42,7 +42,6 @@ Currently a software engineer at **Jusbrasil** and finishing a master's degree i
 
 <p>
   <img alt="Docker"     src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square">
-  <img alt="Linux"      src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square">
   <img alt="Git"        src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square">
 </p>
 
