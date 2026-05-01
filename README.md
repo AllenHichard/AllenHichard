@@ -45,41 +45,6 @@ Currently a software engineer at **Jusbrasil** and finishing a master's degree i
   <img alt="Git"        src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square">
 </p>
 
-### Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/AllenHichard/digital-image-processing">digital-image-processing</a></h4>
-      <p><sub>C++ / OpenCV pipeline that counts pills in blister packs using thresholding, morphology and flood fill. Final project, Computer Engineering at UEFS.</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/AllenHichard/numerical-methods">numerical-methods</a></h4>
-      <p><sub>MATLAB implementations of classic Numerical Methods topics — root finding (bisection, Newton, fzero), linear systems, least squares, polynomial interpolation, numerical integration.</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/AllenHichard/assembly-code">assembly-code</a></h4>
-      <p><sub>Classic algorithms in MIPS (MARS / SPIM) and Nios II (Altera FPGA) assembly: bubble sort, factorial, Fibonacci, power, primes.</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/AllenHichard/complexity-of-algorithms">complexity-of-algorithms</a></h4>
-      <p><sub>Python implementations of classic algorithms (sorting, searching, graphs, strings, dynamic programming) with Open-in-Colab support.</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/AllenHichard/pi-controller-design">pi-controller-design</a></h4>
-      <p><sub>MATLAB project: PI controller design for an RC plant — traditional vs interval analysis with 27 step responses; Simulink model included.</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/AllenHichard/digital-signal-processing">digital-signal-processing</a></h4>
-      <p><sub>MATLAB script that applies a linear frequency shift to an audio signal using FFT / IFFT.</sub></p>
-    </td>
-  </tr>
-</table>
-
 ### GitHub stats
 
 <p>
