@@ -17,9 +17,9 @@
 
 ### About
 
-Computer Engineer (UEFS) with a generalist profile that spans embedded systems, signal processing, numerical methods, computer vision, classical algorithms and machine learning.
-
-Currently a software engineer at **Jusbrasil** and finishing a master's degree in **Computer Science (PGCC)** focused on health-data applications.
+👨‍💻 Senior Software Engineer @ **Jusbrasil**  
+🎓 Computer Engineer and MSc candidate in Computer Science @ **UEFS**  
+🧠 Lecturer in Information Technology
 
 ### Tech stack
 
@@ -45,20 +45,3 @@ Currently a software engineer at **Jusbrasil** and finishing a master's degree i
   <img alt="Git"        src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square">
 </p>
 
-### GitHub stats
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AllenHichard&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AllenHichard&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=false">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AllenHichard&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=false">
-  </picture>
-</p>
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AllenHichard&layout=compact&hide_border=true&theme=tokyonight&langs_count=8">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AllenHichard&layout=compact&hide_border=true&theme=default&langs_count=8">
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllenHichard&layout=compact&hide_border=true&theme=default&langs_count=8">
-  </picture>
-</p>
